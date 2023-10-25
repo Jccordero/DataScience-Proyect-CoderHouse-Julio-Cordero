@@ -1,0 +1,9 @@
+threat_type,id
+shoot,1
+threat,2
+point,3
+attack,4
+move,5
+undetermined,6
+flee,7
+accident,8
